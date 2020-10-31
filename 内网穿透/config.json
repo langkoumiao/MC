@@ -1,0 +1,13 @@
+{
+   "version" : 2,
+   "logo" : 0,
+   "token" : "4f9a5ffa7880b4bf",
+   "suppressinfo" : false,
+   "log_text_wrapping" : true,
+   "bypass_proxy" : true,
+   "check_update" : true,
+   "loggedin" : true,
+   "enable_tunnels" : [
+      "OW28P74E"
+   ]
+}
